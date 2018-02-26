@@ -1,0 +1,9 @@
+Library
+/UnityPackageManager
+/.vscode
+/Build
+/obj
+/Temp
+/Assets/Root16/*.meta
+/.vs
+*.meta
